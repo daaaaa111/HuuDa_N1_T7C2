@@ -7,6 +7,12 @@
 - Lớp: PM2205 Chuyên ngành: Công nghệ phần mềm.
 <br />
 
+## 👉 Giới thiệu nhóm:
+- ✍ Tôi là sinh viên của trường Đại học Ngoại ngữ - Công nghệ thông tin TP.HCM (HUFLIT)<br />
+- Lớp: PM2205 Chuyên ngành: Công nghệ phần mềm.
+
+<br />
+
 ## 📫 Thông tin liên hệ:
 
 <p align="center">
@@ -27,7 +33,7 @@
   </a>
 </p>
 
-## Kỹ năng:
+## 👉 Kỹ năng:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
@@ -36,9 +42,8 @@
   <img src="https://img.icons8.com/?size=48&id=zfHRZ6i1Wg0U&format=png&color=000000"/>
 </p>
 
-## Activities:
-👀 App nghe nhạc: Ứng dụng nghe nhạc cung cấp trải nghiệm nghe nhạc cá nhân hóa cho người dùng.
-👀 Web bán sách trực tuyến: Cung cấp nền tảng cho người dùng mua sách trực tuyến một cách thuận tiện và quản ly sách.
-# Certificates:
+## Dự án:
+🎶 App nghe nhạc: Ứng dụng nghe nhạc cung cấp trải nghiệm nghe nhạc cá nhân hóa cho người dùng.<br />
+📕 Web bán sách trực tuyến: Cung cấp nền tảng cho người dùng mua sách trực tuyến một cách thuận tiện và quản lý sách.
 
 
