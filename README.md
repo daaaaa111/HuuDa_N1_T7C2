@@ -3,13 +3,13 @@
 <h2 align="center">Hi 👋, I'm Nguyễn Hữu Đa </h2>
 
 ## 👉 Giới thiệu bản thân:
-- ✍ Tôi là sinh viên của trường Đại học Ngoại ngữ - Công nghệ thông tin TP.HCM (HUFLIT)<br />
-- Lớp: PM2205 Chuyên ngành: Công nghệ phần mềm.
+- ✍Tôi là sinh viên của trường Đại học Ngoại ngữ - Công nghệ thông tin TP.HCM (HUFLIT)<br />
+- 👍Lớp: PM2205 Chuyên ngành: Công nghệ phần mềm.
 <br />
 
 ## 👉 Giới thiệu nhóm:
-- ✍ Tôi là sinh viên của trường Đại học Ngoại ngữ - Công nghệ thông tin TP.HCM (HUFLIT)<br />
-- Lớp: PM2205 Chuyên ngành: Công nghệ phần mềm.
+- 💪Nhóm 1 gồm 5 thành viên, và tôi là một trong hai lập trình viên chính của nhóm.
+- 🙌Đề tài của nhóm là phát triển một trang web cho nhà sách tên là ATHENA , giúp người dùng dễ dàng tra cứu, tìm kiếm và mua sách trực tuyến, đồng thời tích hợp các tính năng quản lý sản phẩm và đặt hàng.
 
 <br />
 
